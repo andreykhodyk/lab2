@@ -8,4 +8,3 @@ if speed <= 60:
     print("Traffic rules are executed.")
 else:
     print("Traffic rules are not met.")
-    
